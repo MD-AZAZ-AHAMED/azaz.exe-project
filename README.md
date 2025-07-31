@@ -53,7 +53,7 @@ A modern, responsive furniture landing page built with **React.js**, **React Rou
 - Vite
 - React Router
 - Context API
-- CSS
+- Tailwind.css
 
 ## 👤 Author
 
